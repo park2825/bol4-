@@ -5,7 +5,7 @@ from datetime import date
 
 client =  discord.Client()
 botname = 'BOL4봇'
-token = 'ODQzMzIxMTQ1MzE3OTE2Njcz.YKCKBQ.2f5kMsbq0JLcovxQAJQ9Q5Ua6qE'
+token = 'token'
 
 @client.event
 async def on_ready():
